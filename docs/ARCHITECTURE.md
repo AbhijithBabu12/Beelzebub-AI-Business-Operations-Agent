@@ -714,3 +714,4 @@ The AI agent coordinates the work. The application enforces the rules. The datab
 **Document owner:** Beelzebub Development Project  
 **Version:** 1.0  
 **Status:** Proposed architecture pending review.
+
